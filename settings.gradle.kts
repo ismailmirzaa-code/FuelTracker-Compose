@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TestProjem"
+rootProject.name = "FuelTracker"
 include(":app")
